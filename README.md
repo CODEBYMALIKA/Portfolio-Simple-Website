@@ -13,7 +13,7 @@ Welcome to my portfolio website! This project is a simple two-page site that inc
   -CSS
 
 ## How to view
-You can access my portfolio website by visiting[Link].Feel free to explore the content and get in touch!
+You can access my portfolio website by visiting[https://codebymalika.github.io/Portfolio-Simple-Website/].Feel free to explore the content and get in touch!
 
 ## contributing
 
