@@ -1,2 +1,22 @@
-# Portfolio-Simple-Website
-A simple and responsive portfolio website created using HTML and CSS. This project is a demo portfolio designed to practice front-end development and web design, featuring sections like Home, About, Skills, Projects, and Contact. It uses only HTML and CSS with a clean and modern layout.
+# My Portfolio Website
+
+Welcome to my portfolio website! This project is a simple two-page site that includes a homepage and a contact page. It was created using HTML and basic CSS to provide a clean and straightforward user experience.
+
+## Pages
+
+- **Home Page:** A brief introduction and welcome message.
+- **Contact Page:** Ways to get in touch with me.
+
+## Technologies Used
+
+  -HTML
+  -CSS
+
+## How to view
+You can access my portfolio website by visiting[Link].Feel free to explore the content and get in touch!
+
+## contributing
+
+If you'd like to contribute or suggest improvements, please feel free to open an issues or create a pull request. Your feedback is greatly appreciated.
+
+Thank you for visiting my portfolio website!
